@@ -1,0 +1,65 @@
+
+.hero-bg-container {
+    background-image:linear-gradient(to right, #FFFFFF, #D4E7FE);
+   
+}
+.btn-signup {
+    width:140px;
+    margin:10px;
+}
+
+
+.hero-network-btn1 {
+    color:#217BF4;
+   
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 12px;
+    letter-spacing: 0em;
+    text-align: center;
+    background-color: #cde1fa;
+    /* opacity:0.1; */
+    border-radius: 8px;
+}
+.hero-head {
+    font-family: Inter;
+    font-size: 56px;
+    font-weight: 700;
+    text-align: left;
+
+}
+@media(max-width:576px){
+    .hero-head {
+        font-size: 34px;
+    
+    }
+}
+.hero-sub-head {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+
+
+color: #656464;
+}
+.about-me {
+    background-color: #217BF4;
+    box-shadow: 0px 7px 22px -6px rgba(33, 123, 244, 0.34);
+    border-radius: 14px;
+    color:white;
+    font-size:14px;
+    width: 162px;
+    height: 62px;
+}
+.invite-btn {
+    opacity: 0.5;
+    border: 1px solid #217BF4;
+    border-radius: 14px;
+    color: #0b70f5;
+    width: 167px;
+    height: 62px;
+
+}
