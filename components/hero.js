@@ -1,5 +1,6 @@
 import React from "react";
 import Link from 'next/link';
+import Image from 'next/image';
 function HeroSection() {
     return (
         <div className="hero-bg-container">
@@ -24,7 +25,7 @@ function HeroSection() {
                     </div>
             
                     <div className="col-12 col-sm-6 col-md-6">
-                        <img src = 'https://img.freepik.com/free-vector/pair-programming-concept-illustration_114360-2170.jpg?w=740&t=st=1667295798~exp=1667296398~hmac=7f50943c06361857dd5fa60ad6e3fe332502f04498cb5fb473ad5685c94e27ad' className="hero-image w-100"/>
+                        <Image alt="img" src = 'https://img.freepik.com/free-vector/pair-programming-concept-illustration_114360-2170.jpg?w=740&t=st=1667295798~exp=1667296398~hmac=7f50943c06361857dd5fa60ad6e3fe332502f04498cb5fb473ad5685c94e27ad' className="hero-image w-100"/>
                     </div>
 
             </div>

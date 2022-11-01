@@ -3,7 +3,7 @@ import {useForm} from 'react-hook-form';
 import Link from 'next/link';
 
 
- const signup =  () => {
+ const Signup =  () => {
     const {
         register,
         handleSubmit,
@@ -27,7 +27,7 @@ import Link from 'next/link';
         console.log(enteredData)
         if (enteredData.password !== data.rpassword) {
            setUserInfo()
-           setErrors(<p className="text-danger">Password did'nt match</p>) 
+           setErrors(<p className="text-danger">{`Password did'nt match`}</p>) 
         } else {
             // setErrors('')
            setErrors(<p className="text-success">Passwords matched successfully</p>)
@@ -84,4 +84,4 @@ import Link from 'next/link';
     )
 }
 
-export default signup;
+export default Signup;

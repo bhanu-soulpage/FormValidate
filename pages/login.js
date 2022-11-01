@@ -2,14 +2,13 @@ import React, { useState } from "react";
 import {useForm} from 'react-hook-form';
 import Link from 'next/link';
 
-const login = () => {
+const Login = () => {
     const {
         register,
         handleSubmit,
-        watch,
         formState: { errors }
       } = useForm();
-      const [userInfo , setUserInfo] = useState();
+      const [userInfo , setUserInfo] = useState(null);
       const onSubmit = (data) => {
         setUserInfo(data)
       };
@@ -46,7 +45,7 @@ const login = () => {
                     <Link href='/'>
                     <button type="button" className="cancelbtn">Cancel</button>
                     </Link>
-                    <Link href='/signup'>I don't have an account</Link>
+                    <Link href='/signup'>{`I don't have an account`}</Link>
                 </div>
             </form>
            
@@ -55,4 +54,4 @@ const login = () => {
     )
 }
 
-export default login;
+export default Login;
