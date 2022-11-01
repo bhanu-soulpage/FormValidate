@@ -26,7 +26,7 @@ import Link from 'next/link';
 
         console.log(enteredData)
         if (enteredData.password !== data.rpassword) {
-           setUserInfo(<p className="text-danger">You Entered Wrong Credentials</p>)
+           setUserInfo("You Entered Wrong Credentials")
            setErrors(<p className="text-danger">{`Password did'nt match`}</p>) 
         } else {
             // setErrors('')
