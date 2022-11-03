@@ -14,13 +14,13 @@ function AppStore(){
                             <p className='app-sub-text'>I say chap that's suing lavatory chip shop gosh off his smashing boot are you taking the piss posh loo brilliant.</p>
                         </div>
                         <div className='app-image-content mr-auto'>
-                            <Image src={AppImage} className="app-image" />
-                            <Image src={PlayImage} className="app-image" />
+                            <Image  alt="img" src={AppImage} className="app-image" />
+                            <Image alt="img" src={PlayImage} className="app-image" />
                         </div>
                     </div>
                     <div className='col-12 col-md-6'>
                         <div>
-                            <Image src={mobileImage} className="mobile-img w-100 h-100"/>
+                            <Image alt="img" src={mobileImage} className="mobile-img w-100 h-100"/>
                         </div>
 
                     </div>

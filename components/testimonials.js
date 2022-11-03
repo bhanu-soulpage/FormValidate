@@ -14,14 +14,14 @@ function Testimonials() {
             <div className='col-12 col-md-4 mt-3'>
                 <div className='card-container p-5'>
                     <div className='d-flex pb-1'>
-                        <Image src={starIcon} className="star-icon " />
+                        <Image  alt="image" src={starIcon} className="star-icon " />
                         <p className='rating'>4.8 Rating</p>
                     </div>
                     <div>
                         <div className='d-flex flex-row pb-2'>
-                            <Image src={customer1} className="customer-image1" />
-                            <Image src={customer2} className="customer-images"  />
-                            <Image src={customer3} className="customer-images"  />
+                            <Image  alt="image" src={customer1} className="customer-image1" />
+                            <Image alt="image" src={customer2} className="customer-images"  />
+                            <Image alt="image" src={customer3} className="customer-images"  />
                             <p className='pt-2 members'><span className="no-of-testimonials">+836k </span>Members</p>
                         </div>
                         <p className='sub-text pb-1'>More than 2 billion we people over countries use socibooks we to stay in touch with friends.</p>
@@ -34,11 +34,11 @@ function Testimonials() {
             <div className='col-12 col-md-4 mt-3'>
                 <div className='card-container p-5'>
                     <div className='d-flex pb-1'>
-                        <Image src={trophyIcon} className="trophy-icon"/>
+                        <Image alt="image" src={trophyIcon} className="trophy-icon"/>
                         <p className='awwards'>Awwwards</p>
                     </div>
                     <div className='d-flex  pt-2'>
-                        <Image src={redLogo} className="red-logo" />
+                        <Image alt="image" src={redLogo} className="red-logo" />
                         <p className='best-of'>Best of <span className='year'>2021</span> Github</p>
                     </div>
                     <p className='sub-text pb-2 pt-2 sub-text-1'>More than 2 billion we people over countries use socibooks we to stay in touch with friends.</p>

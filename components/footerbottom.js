@@ -6,8 +6,8 @@ function FooterBottom() {
     <div className="footer-bottom-bg mb-0 p-3 d-flex justify-content-between flex-wrap">
       <div className="pt-2 text-white me-3">Besnik Creative Agency.</div>
       <div className="image-logo-sub-2 pt-2 me-auto">
-        <Image src={logo} className="logo-sub-1 logo" />
-        <Image src={mainLogo} className="logo-sub-2 logo" />
+        <Image alt="image" src={logo} className="logo-sub-1 logo" />
+        <Image alt="image" src={mainLogo} className="logo-sub-2 logo" />
         <span className="logo-head"> NetBook</span>
       </div>
       <div className="d-flex flex-row">

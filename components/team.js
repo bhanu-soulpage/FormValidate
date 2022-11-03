@@ -28,7 +28,7 @@ function Team() {
                 <div className='col-12 col-md-6 col-lg-3 mt-4'>
                     <div class="profile-card pt-5">
                         <div className='text-center d-flex flex-column align-items-center'>
-                            <Image src={firstImage} className="profile-image" />
+                            <Image alt="image" src={firstImage} className="profile-image" />
                             <p className='profile-name'>Fahim Rahim</p> 
                             <p className='profile-tag'>@rahman</p>
                         </div>
@@ -39,7 +39,7 @@ function Team() {
                 <div className='col-12 col-md-6 col-lg-3 mt-4'>
                     <div class="profile-card pt-5">
                         <div className='text-center d-flex flex-column align-items-center'>
-                            <Image src={secondImage} className="profile-image" />
+                            <Image alt="image" src={secondImage} className="profile-image" />
                             <p className='profile-name'>Kazi Rahman</p> 
                             <p className='profile-tag'>@Rahman</p>
                         </div>
@@ -50,7 +50,7 @@ function Team() {
                 <div className='col-12 col-md-6 col-lg-3 mt-4'>
                     <div class="profile-card pt-5">
                         <div className='text-center d-flex flex-column align-items-center'>
-                            <Image src={thirdImage} className="profile-image" />
+                            <Image  alt="image" src={thirdImage} className="profile-image" />
                             <p className='profile-name'>Mastereo Ali</p> 
                             <p className='profile-tag'>@Master</p>
                         </div>
@@ -61,7 +61,7 @@ function Team() {
                 <div className='col-12 col-md-6 col-lg-3 mt-4'>
                     <div class="profile-card pt-5">
                         <div className='text-center d-flex flex-column align-items-center'>
-                            <Image src={fourthImage} className="profile-image" />
+                            <Image alt="image "src={fourthImage} className="profile-image" />
                             <p className='profile-name'>Ali Karon</p> 
                             <p className='profile-tag'>@Ali</p>
                         </div>

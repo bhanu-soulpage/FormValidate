@@ -9,8 +9,8 @@ function NavBar() {
                 <div className="container">                         
                         <a className="navbar-brand " href="#">
                             <div className="image-logo-sub-2 pt-2">
-                                <Image src={logo} className="logo-sub-1 logo" />
-                                <Image src={mainLogo} className="logo-sub-2 logo" />
+                                <Image alt="image"src={logo} className="logo-sub-1 logo" />
+                                <Image alt="image"src={mainLogo} className="logo-sub-2 logo" />
                                 <span className="logo-head1"> NetBook</span>
                             </div>
                            

@@ -20,7 +20,7 @@ function Community () {
             <div className="row community-cards-section">
                 <div className="col-12 col-md-6 mt-3">
                     <div className="community-card d-flex p-3 pt-4">
-                        <Image src={firstIcon} className="community-icon"/>
+                        <Image alt="image" src={firstIcon} className="community-icon"/>
                         <div className="pt-2 text-content">
                             <h6 className="community-head">Members , Friends</h6>
                             <p className="community-text">Members, Friends Connection ( like followers ), Private Message</p>
@@ -30,7 +30,7 @@ function Community () {
 
                 <div className="col-12 col-md-6 mt-3">
                     <div className="community-card d-flex p-3 pt-4">
-                            <Image src={secondIcon} className="community-icon"/>
+                            <Image alt="image" src={secondIcon} className="community-icon"/>
                             <div className="pt-2 text-content">
                                 <h6 className="community-head">Groups</h6>
                                 <p className="community-text">Your users can create groups to let other users to join and talk</p>
@@ -41,7 +41,7 @@ function Community () {
 
                 <div className="col-12 col-md-6 mt-3">
                     <div className="community-card d-flex p-3 pt-4">
-                            <Image src={thirdIcon} className="community-icon"/>
+                            <Image alt="image" src={thirdIcon} className="community-icon"/>
                             <div className="pt-2 text-content">
                                 <h6 className="community-head">Forums</h6>
                                 <p className="community-text">Forum is ready by BBPress. Your users can make topics and talk.</p>
@@ -52,7 +52,7 @@ function Community () {
 
                 <div className="col-12 col-md-6 mt-3">
                     <div className="community-card d-flex p-3 pt-4">
-                            <Image src={fourthIcon} className="community-icon"/>
+                            <Image alt="image" src={fourthIcon} className="community-icon"/>
                             <div className="pt-2 text-content">
                                 <h6 className="community-head">Custom Module</h6>
                                 <p className="community-text">You can create Members, Groups Module. We already created 3 modules. It's by drag & drop live builder.</p>
@@ -63,7 +63,7 @@ function Community () {
 
                 <div className="col-12 col-md-6 mt-3">
                     <div className="community-card d-flex p-3 pt-4">
-                            <Image src={fifthIcon} className="community-icon"/>
+                            <Image alt="image" src={fifthIcon} className="community-icon"/>
                             <div className="pt-2 text-content">
                                 <h6 className="community-head">List Builder</h6>
                                 <p className="community-text">Members, Groups list can be modified by drag & drop live builder.</p>
@@ -74,7 +74,7 @@ function Community () {
                 
                 <div className="col-12 col-md-6 mt-3">
                     <div className="community-card d-flex p-3 pt-4">
-                            <Image src={sixthIcon} className="community-icon"/>
+                            <Image alt="image" src={sixthIcon} className="community-icon"/>
                             <div className="pt-2 text-content">
                                 <h6 className="community-head">List Scroll Effects</h6>
                                 <p className="community-text">8 different scroll effects are ready.You can always change by your tastes.</p>

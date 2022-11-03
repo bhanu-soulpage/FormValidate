@@ -12,7 +12,7 @@ function News() {
                    <h1 className="news-top-heading">Our Latest News</h1>
                 </div>
                 <div className="col-12 col-md-4">
-                    <Image src={firstImage} className="news-image w-100" />
+                    <Image alt="image" src={firstImage} className="news-image w-100" />
                     <div className="news-content pt-4 pl-3">
                         <h4 className="news-sub-text pb-2">It Does Not Matter Hows Slowly go as Long</h4>
                         <p>Continue Reading
@@ -23,7 +23,7 @@ function News() {
                     </div>
                 </div>
                 <div className="col-12 col-md-4">
-                <Image src={secondImage} className="news-image w-100" />
+                <Image alt="image" src={secondImage} className="news-image w-100" />
                     <div className="news-content pt-4 pl-3">
                         <h4 className="news-sub-text pb-2">Netbook Network Added New Photo Filter</h4>
                         <p>Continue Reading
@@ -35,7 +35,7 @@ function News() {
 
                 </div>
                 <div className="col-12 col-md-4">
-                <Image src={thirdImage} className="news-image w-100" />
+                <Image alt="image" src={thirdImage} className="news-image w-100" />
                     <div className="news-content pt-4 pl-3">
                         <h4 className="news-sub-text pb-2"> We Optimised Netbooks Better Navigation</h4>
                         <p>Continue Reading

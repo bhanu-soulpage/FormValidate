@@ -19,12 +19,12 @@ function ContentSection() {
                     </div>
 
                     <div className="col-sm-12 col-md-4 d-flex"> 
-                            <Image src = {fauxels} className="content-left-image w-100 p-5 " />
+                            <Image alt="image" src = {fauxels} className="content-left-image w-100 p-5 " />
                     </div>
 
                     <div className="col-sm-12 col-md-4">
-                        <Image src={brett} className=" content-right-images w-100"/>
-                        <Image src={andres}className="  content-right-images w-100"/>
+                        <Image alt="image" src={brett} className=" content-right-images w-100"/>
+                        <Image alt="image" src={andres}className="  content-right-images w-100"/>
                     </div>
                    
                        
