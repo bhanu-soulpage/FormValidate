@@ -55,7 +55,7 @@ function Community () {
                             <Image alt="image" src={fourthIcon} className="community-icon"/>
                             <div className="pt-2 text-content">
                                 <h6 className="community-head">Custom Module</h6>
-                                <p className="community-text">You can create Members, Groups Module. We already created 3 modules. It's by drag & drop live builder.</p>
+                                <p className="community-text">{`You can create Members, Groups Module. We already created 3 modules. It's by drag & drop live builder.`}</p>
                             </div>
                     </div>
 

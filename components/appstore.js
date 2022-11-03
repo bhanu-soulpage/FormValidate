@@ -11,7 +11,7 @@ function AppStore(){
                         <div className="app-text-container text-left">
                             <p className='app-top-text'>Get our Application</p>
                             <h3 className='app-head'>You Can Easily Find This App....</h3>
-                            <p className='app-sub-text'>I say chap that's suing lavatory chip shop gosh off his smashing boot are you taking the piss posh loo brilliant.</p>
+                            <p className='app-sub-text'>{`I say chap that's suing lavatory chip shop gosh off his smashing boot are you taking the piss posh loo brilliant.`}</p>
                         </div>
                         <div className='app-image-content mr-auto'>
                             <Image  alt="img" src={AppImage} className="app-image" />
