@@ -1,0 +1,91 @@
+.star-icon {
+    height: 21.87499237060547px;
+    width: 22.750003814697266px;
+    border-radius: 0px;
+    margin-top: 2px;
+
+}
+.members {
+    color:#5D5B70;
+    font-size: 14px;
+    font-family: 'Inter';
+    font-style: normal;
+}
+.rating{
+    color: #0A093D;
+    padding-left: 8px;
+    padding-bottom: 8px;
+    font-family: Inter;
+    font-weight: 500;
+
+}
+.card-container {
+    background-color: #FFFFFF;
+    box-shadow: 0px 26px 49px rgba(146, 165, 184, 0.14);
+    border-radius: 14px;
+}
+.customer-image1 {
+    margin-left: -20px;
+}
+.customer-images {
+    margin-left:-40px;
+}
+.sub-text {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #8C8C8C;
+}
+.no-of-testimonials{
+    color: #217BF4;
+}
+.arrow-icon {
+    width:10px;
+    margin-left: 5px;
+}
+.trophy-icon {
+    width: 28px;
+    height: 28px;
+}
+.awwards {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left:8px;
+    color: #0A093D;
+}
+.red-logo {
+    width: 28px;
+    height: 28px;
+}
+.best-of {
+    color: #5D5B70;
+    font-family: 'Inter';
+}
+.year {
+    color :#217BF4;
+}
+.awwards-link {
+    color: #4A4A56;
+   padding-left: 5px;
+}
+.sub-text-1 {
+    padding-left: 5px;
+}
+.third-card-head {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    color: #0A093D;
+
+}
+.button-third-card {
+    
+    box-shadow: 0px 10px 22px rgba(33, 123, 244, 0.26);
+    border-radius: 14px;
+}
+.top-sub-text-third {
+    color: #217BF4;
+}

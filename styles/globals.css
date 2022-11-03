@@ -1,5 +1,14 @@
 @import './login.css';
 @import './hero.css';
+@import './navbar.css';
+@import './contentsection.css';
+@import './appstore.css';
+@import './testimonials.css';
+@import './community.css';
+@import './team.css';
+@import './news.css';
+@import './footer.css';
+@import './footerbottom.css';
 html,
 body {
   padding: 0;

@@ -1,0 +1,60 @@
+.community-bg-container {
+    background-image: linear-gradient(0deg, rgba(241, 246, 253, 0) 1.63%, #F1F6FD 20.5%, #F1F6FD 58.57%, #FFFFFF 100%);
+
+}
+.community-card {
+    background-color: #FFFFFF;
+    padding-right:30px;
+    border-radius: 14px;
+    padding-left: 10px;
+    box-shadow: 14px 22px 52px -12px #7F7F7F21;
+
+}
+.community-cards-section {
+    margin-top:45px;
+}
+.our-cm {
+    color: #217BF4;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+
+}
+h3 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    color: #0A093D;
+}
+.sub-text-community {
+    color: #656464;
+    line-height: 28px;
+}
+.community-head {
+    color: #2F2C4A;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px
+
+}
+.community-icon {
+    width: 70px;
+    height: 70px;
+}
+.community-text {
+    color: #656464;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.text-content {
+    margin-left:10px;
+}

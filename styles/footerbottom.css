@@ -1,0 +1,49 @@
+
+.logo-sub-1 {
+    width: 27.45px;
+    height: 27.45px;
+    left: 141.55px;
+    top: 36.55px;
+    margin-bottom: 12px;
+}
+.image-logo-sub-2 { 
+   
+    margin-right: 15px;
+}
+.logo-sub-2 {
+    width: 27.45px;
+    height: 27.45px;
+    left: 141.55px;
+    top: 37.55px;
+    margin:-25px;
+    
+}
+.logo-head { 
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left:25px;
+    color:#FFFFFF;
+}
+.footer-bottom-sec{
+    color:#FFFFFF;
+}
+.icon-bg{
+    width:50px;
+    color: #2B2B39;
+    border-radius: 60px;
+    background-color:#FFFFFF;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right:5px;
+}
+.footer-bottom-bg{
+    background-color: #20202D;
+
+}

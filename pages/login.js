@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import {useForm} from 'react-hook-form';
 import Link from 'next/link';
 
-const Login = () => {
+const Login = (props) => {
     const {
         register,
         handleSubmit,

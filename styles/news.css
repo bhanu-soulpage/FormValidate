@@ -1,0 +1,37 @@
+.news-content{
+    padding-left: 60px;
+}
+.news-top-heading{
+    
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 36px;
+    color: #0A093D;
+
+}
+.right-arr-icon {
+    margin-left: 5px;
+    width:10px;
+}
+.news-text{
+    color: #217BF4;
+    font-weight: 500;
+    font-size: 18px;
+}
+.news-sub-text {
+    font-family: 'Inter';
+font-weight: 600;
+font-size: 20px;
+color: #2F2C4A;
+
+}
+.news-image {
+    border-radius: 26px;
+}
+.continue-link {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #656464;
+}

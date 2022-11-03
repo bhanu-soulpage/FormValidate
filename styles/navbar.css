@@ -1,0 +1,79 @@
+.dropdown-item {
+    line-height: 2;
+}
+.logo-sub-1 {
+    width: 27.45px;
+    height: 27.45px;
+    left: 141.55px;
+    top: 36.55px;
+    margin-bottom: 12px;
+}
+.image-logo-sub-2 { 
+   
+    margin-right: 15px;
+}
+.logo-sub-2 {
+    width: 27.45px;
+    height: 27.45px;
+    left: 141.55px;
+    top: 37.55px;
+    margin:-25px;
+    
+}
+.logo-head1 { 
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #2B2B39;
+    margin-left:25px;
+
+}
+#nav-home {
+    color: #2B2B39;
+}
+.nav-item{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 14px;
+    /* identical to box height, or 100% */
+    margin-right:15px;
+    letter-spacing: 0.01em;
+}
+.nav-link {
+    color: #656464;
+    
+}
+.nav-form {
+    margin-left: auto;
+}
+.input-form {
+    border: 0px solid #E5E5E5;
+    border-radius:25px;
+    height:34px;
+    width:120px;
+}
+.search-icon {
+    color: #2B2B39;
+
+}
+.login-btn {
+    width: 123px;
+    height: 50px;
+    left: 1182px;
+    top: 22px;
+    background-color:#217BF4;
+    color:white;
+    border-radius:15px;
+    font-size:12px;
+    text-align: center;
+}
+.navbar-line {
+    opacity: 0.1;
+    border: 0.5px solid #217BF4;
+    margin:0px;
+}
